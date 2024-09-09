@@ -1,5 +1,5 @@
 {
-    "user": "ZantetsukenGT",
+    "user": "MichelDev2005",
     "repo": "samp-discord-connector",
     "resources": [
         {
@@ -24,7 +24,7 @@
         }
     ],
     "runtime": {
-        "plugins": ["ZantetsukenGT/samp-discord-connector"]
+        "plugins": ["MichelDev2005/samp-discord-connector"]
     },
     "contributors": [
         "maddinat0r",
