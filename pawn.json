@@ -7,7 +7,7 @@
             "platform": "linux",
             "archive": true,
             "includes": ["pawno\\/include"],
-            "plugins": ["plugins\\/discord-connector\\.so"],
+            "plugins": ["components\\/discord-connector\\.so"],
             "files": {
                 "log-core2.so": "log-core2.so"
             }
@@ -17,7 +17,7 @@
             "platform": "windows",
             "archive": true,
             "includes": ["pawno\\/include"],
-            "plugins": ["plugins\\/discord-connector\\.dll"],
+            "plugins": ["components\\/discord-connector\\.dll"],
             "files": {
                 "log-core2.dll": "log-core2.dll"
             }
